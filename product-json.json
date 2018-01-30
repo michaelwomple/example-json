@@ -7,42 +7,42 @@
     "colors": [
       {
         "color": "green",
+        "img": "https://images.freeimages.com/images/large-previews/f2f/half-apple-1189247.jpg",
         "price": "1.99",
         "stars": "★★★★★"
       },
       {
         "color": "yellow",
+        "img": "https://images.freeimages.com/images/large-previews/441/apple-1183029.jpg",
         "price": "1.65",
         "stars": "★★★★★"
       },
       {
         "color": "red",
+        "img": "https://images.freeimages.com/images/large-previews/d7e/red-apple-1326760.jpg",
         "price": "0.99",
         "stars": "★★★★☆"
       }
     ]
   }, {
     "id": 2,
-    "img": "https://images.freeimages.com/images/large-previews/374/orangey-1326706.jpg",
-    "name": "Orange",
+    "img": "https://images.freeimages.com/images/large-previews/7ac/ripe-banana-1183942.jpg",
+    "name": "Banana",
     "price": "0.99",
     "stars": "★★★★☆",
     "url": "#",
     "colors": [
       {
         "color": "green",
-        "price": "1.99",
+        "img": "https://media.istockphoto.com/photos/green-plantain-picture-id138001887",
+        "price": "0.99",
         "stars": "★★★☆☆"
       },
       {
         "color": "yellow",
+        "img": "https://images.freeimages.com/images/large-previews/7ac/ripe-banana-1183942.jpg",
         "price": "1.65",
         "stars": "★★★★☆"
-      },
-      {
-        "color": "Orange",
-        "price": "1.99",
-        "stars": "★★★★★"
       }
     ]
   }]
