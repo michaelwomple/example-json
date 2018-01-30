@@ -1,0 +1,49 @@
+{
+  "items": [{
+    "id": 1,
+    "img": "https://images.freeimages.com/images/large-previews/f84/tasty-serie-3-1329678.jpg",
+    "name": "Apple",
+    "url": "#",
+    "colors": [
+      {
+        "color": "green",
+        "price": "1.99",
+        "stars": "★★★★★"
+      },
+      {
+        "color": "yellow",
+        "price": "1.65",
+        "stars": "★★★★★"
+      },
+      {
+        "color": "red",
+        "price": "0.99",
+        "stars": "★★★★☆"
+      }
+    ]
+  }, {
+    "id": 2,
+    "img": "https://images.freeimages.com/images/large-previews/374/orangey-1326706.jpg",
+    "name": "Orange",
+    "price": "0.99",
+    "stars": "★★★★☆",
+    "url": "#",
+    "colors": [
+      {
+        "color": "green",
+        "price": "1.99",
+        "stars": "★★★☆☆"
+      },
+      {
+        "color": "yellow",
+        "price": "1.65",
+        "stars": "★★★★☆"
+      },
+      {
+        "color": "Orange",
+        "price": "1.99",
+        "stars": "★★★★★"
+      }
+    ]
+  }]
+}
