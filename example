@@ -1,0 +1,61 @@
+{
+    "matchingProducts": [
+        {
+            "Key": "50250",
+            "Value": {
+                "Main_Id": "50250",
+                "Product_Title": "Columbia Steens Mountain Full Zip 2.0 Tall Fleece Jacket - Men's",
+                "Product_URL": "https://www.campmor.com/c/columbia-steens-mountain-full-zip-20-tall-fleece-jacket-mens",
+                "Brand": "Columbia",
+                "Photo": "https://static.campmor.com/wcsstore/Campmor/static/images/items/main/50250.jpg",
+                "Price": 65,
+                "Discount_Price": 19.96,
+                "Savings": "69%",
+                "Rating": "3.9",
+                "RoundedRating": 4,
+                "ReviewCount": "10"
+            }
+        },
+        {
+            "Key": "M0326",
+            "Value": {
+                "Main_Id": "M0326",
+                "Product_Title": "Columbia Steens Mountain Vest - Tall - Men's",
+                "Product_URL": "https://www.campmor.com/c/columbia-steens-mountain-vest-tall-mens",
+                "Brand": "Columbia",
+                "Photo": "https://static.campmor.com/wcsstore/Campmor/static/images/items/main/M0326.jpg",
+                "Price": 34.99,
+                "Discount_Price": 19.96,
+                "Savings": "43%"
+        },
+        {
+            "Key": "M0057",
+            "Value": {
+                "Main_Id": "M0057",
+                "Product_Title": "Columbia Steens Mountain Fleece Vest - Men's",
+                "Product_URL": "https://www.campmor.com/c/columbia-steens-mountain-fleece-vest-mens",
+                "Brand": "Columbia",
+                "Photo": "https://static.campmor.com/wcsstore/Campmor/static/images/items/main/M0057.jpg",
+                "Price": 45,
+                "Discount_Price": 20.96,
+                "Savings": "53%",
+                "Rating": "4.0",
+                "RoundedRating": 4,
+                "ReviewCount": "1"
+            }
+        },
+        {
+            "Key": "M0646",
+            "Value": {
+                "Main_Id": "M0646",
+                "Product_Title": "Columbia Mountain Crest Full Zip - Men's",
+                "Product_URL": "https://www.campmor.com/c/columbia-mountain-crest-full-zip---mens",
+                "Brand": "Columbia",
+                "Photo": "https://static.campmor.com/wcsstore/Campmor/static/images/items/main/M0646.jpg",
+                "Price": 50,
+                "Discount_Price": 22.96,
+                "Savings": "54%"
+            }
+        }
+    ]
+}
