@@ -49,9 +49,9 @@
     "id": 3,
     "img": "https://images.freeimages.com/images/large-previews/7ac/ripe-banana-1183942.jpg",
     "name": "Banana",
-    "price": "0.99",
+    "price": "",
     "stars": "★★★★☆",
-    "url": "#",
+    "url": "",
     "colors": []
   }]
 }
