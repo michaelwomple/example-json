@@ -1,0 +1,22 @@
+{
+  "items": [{
+    "id": 1,
+    "img": "https://images.freeimages.com/images/large-previews/f84/tasty-serie-3-1329678.jpg",
+    "name": "Apple",
+    "url": "#",
+    "prices": [
+      {
+        "priceType":"Cash",
+        "price": "1.99",
+      },
+      {
+        "priceType":"Card",
+        "price": "2.99",
+      },
+      {
+        "priceType":"BitCoint",
+        "price": "5.99",
+      }
+    ]
+  }]
+}
